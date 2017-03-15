@@ -27,8 +27,8 @@ else
 fi;
 echo "----------安装完成------";
 echo "----------生成脚本------";
-echo "autossh -f -N -M $port_listen -R 0.0.0.0:$port_serve:$ip_sbox:$port_sbox -o StrictHostKeyChecking=no -i $path/id_rsa_drop  root@$ip_serve;" >autossh.sh
-echo "autossh -f -N -M $(($port_listen-1000)) -R 0.0.0.0:$(($port_serve-1000)):localhost:22 -o StrictHostKeyChecking=no -i $path/id_rsa_drop  root@$ip_serve;"  >>autossh.sh 
+echo "AUTOSSH_POLL=1 AUTOSSH_FIRST_POLL=1 AUTOSSH_LOGLEVEL=7 AUTOSSH_LOGFILE=$path/logfile autossh -f -N -M $port_listen -R 0.0.0.0:$port_serve:$ip_sbox:$port_sbox -o StrictHostKeyChecking=no -i $path/id_rsa_drop  root@$ip_serve;" >autossh.sh
+echo "AUTOSSH_POLL=1 AUTOSSH_FIRST_POLL=1 AUTOSSH_LOGLEVEL=7 AUTOSSH_LOGFILE=$path/logfile2 autossh -f -N -M $(($port_listen-1000)) -R 0.0.0.0:$(($port_serve-1000)):localhost:22 -o StrictHostKeyChecking=no -i $path/id_rsa_drop  root@$ip_serve;"  >>autossh.sh 
 #     autossh -f -N  -M 42341  -R 0.0.0.0:4000:192.168.31.10:4000 -i /root/.ssh/id_rsa_drop  root@182.61.32.129
 echo "----------生成脚本完成-----";
 echo "----------设置自启动，覆盖rc.local,请勿在rc.local下设置其他自启动------";

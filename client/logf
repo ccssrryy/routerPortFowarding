@@ -1,0 +1,104 @@
+2017/03/13 21:08:37 autossh[5875]: short poll time: adjusting net timeouts to 500
+2017/03/13 21:08:37 autossh[5875]: checking for grace period, tries = 0
+2017/03/13 21:08:37 autossh[5875]: starting ssh (count 1)
+2017/03/13 21:08:37 autossh[5875]: ssh child pid is 5886
+2017/03/13 21:08:37 autossh[5875]: check on child 5886
+2017/03/13 21:08:37 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:37 autossh[5886]: execing /usr/bin/ssh
+2017/03/13 21:08:38 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:38 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:38 autossh[5875]: checking for grace period, tries = 1
+2017/03/13 21:08:38 autossh[5875]: starting ssh (count 2)
+2017/03/13 21:08:38 autossh[5875]: ssh child pid is 5888
+2017/03/13 21:08:38 autossh[5875]: check on child 5888
+2017/03/13 21:08:38 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:38 autossh[5888]: execing /usr/bin/ssh
+2017/03/13 21:08:39 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:39 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:39 autossh[5875]: checking for grace period, tries = 2
+2017/03/13 21:08:39 autossh[5875]: starting ssh (count 3)
+2017/03/13 21:08:39 autossh[5875]: ssh child pid is 5890
+2017/03/13 21:08:39 autossh[5875]: check on child 5890
+2017/03/13 21:08:39 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:39 autossh[5890]: execing /usr/bin/ssh
+2017/03/13 21:08:40 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:40 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:40 autossh[5875]: checking for grace period, tries = 3
+2017/03/13 21:08:40 autossh[5875]: starting ssh (count 4)
+2017/03/13 21:08:40 autossh[5875]: ssh child pid is 5893
+2017/03/13 21:08:40 autossh[5875]: check on child 5893
+2017/03/13 21:08:40 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:40 autossh[5893]: execing /usr/bin/ssh
+2017/03/13 21:08:41 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:41 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:41 autossh[5875]: checking for grace period, tries = 4
+2017/03/13 21:08:41 autossh[5875]: starting ssh (count 5)
+2017/03/13 21:08:41 autossh[5875]: ssh child pid is 5895
+2017/03/13 21:08:41 autossh[5875]: check on child 5895
+2017/03/13 21:08:41 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:41 autossh[5895]: execing /usr/bin/ssh
+2017/03/13 21:08:42 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:42 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:42 autossh[5875]: checking for grace period, tries = 5
+2017/03/13 21:08:42 autossh[5875]: starting ssh (count 6)
+2017/03/13 21:08:42 autossh[5875]: ssh child pid is 5898
+2017/03/13 21:08:42 autossh[5875]: check on child 5898
+2017/03/13 21:08:42 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:42 autossh[5898]: execing /usr/bin/ssh
+2017/03/13 21:08:43 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:43 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:43 autossh[5875]: checking for grace period, tries = 6
+2017/03/13 21:08:43 autossh[5875]: starting ssh (count 7)
+2017/03/13 21:08:43 autossh[5875]: ssh child pid is 5900
+2017/03/13 21:08:43 autossh[5875]: check on child 5900
+2017/03/13 21:08:43 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:43 autossh[5900]: execing /usr/bin/ssh
+2017/03/13 21:08:44 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:44 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:44 autossh[5875]: checking for grace period, tries = 7
+2017/03/13 21:08:44 autossh[5875]: starting ssh (count 8)
+2017/03/13 21:08:44 autossh[5875]: ssh child pid is 5902
+2017/03/13 21:08:44 autossh[5875]: check on child 5902
+2017/03/13 21:08:44 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:44 autossh[5902]: execing /usr/bin/ssh
+2017/03/13 21:08:45 autossh[5875]: 127.0.0.1:35596: Connection refused
+2017/03/13 21:08:45 autossh[5875]: port down, restarting ssh
+2017/03/13 21:08:45 autossh[5875]: checking for grace period, tries = 8
+2017/03/13 21:08:45 autossh[5875]: starting ssh (count 9)
+2017/03/13 21:08:45 autossh[5875]: ssh child pid is 5904
+2017/03/13 21:08:45 autossh[5875]: check on child 5904
+2017/03/13 21:08:45 autossh[5875]: set alarm for 1 secs
+2017/03/13 21:08:45 autossh[5904]: execing /usr/bin/ssh
+2017/03/13 21:08:46 autossh[5875]: received signal to exit (2)
+2017/03/14 22:29:40 autossh[8169]: short poll time: adjusting net timeouts to 500
+2017/03/14 22:29:40 autossh[8169]: checking for grace period, tries = 0
+2017/03/14 22:29:40 autossh[8169]: starting ssh (count 1)
+2017/03/14 22:29:40 autossh[8169]: ssh child pid is 8180
+2017/03/14 22:29:40 autossh[8169]: check on child 8180
+2017/03/14 22:29:40 autossh[8169]: set alarm for 1 secs
+2017/03/14 22:29:40 autossh[8180]: execing /usr/bin/ssh
+2017/03/14 22:29:41 autossh[8169]: 127.0.0.1:50305: Connection refused
+2017/03/14 22:29:41 autossh[8169]: port down, restarting ssh
+2017/03/14 22:29:41 autossh[8169]: checking for grace period, tries = 1
+2017/03/14 22:29:41 autossh[8169]: starting ssh (count 2)
+2017/03/14 22:29:41 autossh[8169]: ssh child pid is 8183
+2017/03/14 22:29:41 autossh[8169]: check on child 8183
+2017/03/14 22:29:41 autossh[8169]: set alarm for 1 secs
+2017/03/14 22:29:41 autossh[8183]: execing /usr/bin/ssh
+2017/03/14 22:29:42 autossh[8169]: 127.0.0.1:50305: Connection refused
+2017/03/14 22:29:42 autossh[8169]: port down, restarting ssh
+2017/03/14 22:29:42 autossh[8169]: checking for grace period, tries = 2
+2017/03/14 22:29:42 autossh[8169]: starting ssh (count 3)
+2017/03/14 22:29:42 autossh[8169]: ssh child pid is 8186
+2017/03/14 22:29:42 autossh[8169]: check on child 8186
+2017/03/14 22:29:42 autossh[8169]: set alarm for 1 secs
+2017/03/14 22:29:42 autossh[8186]: execing /usr/bin/ssh
+2017/03/14 22:29:43 autossh[8169]: 127.0.0.1:50305: Connection refused
+2017/03/14 22:29:43 autossh[8169]: port down, restarting ssh
+2017/03/14 22:29:43 autossh[8169]: checking for grace period, tries = 3
+2017/03/14 22:29:43 autossh[8169]: starting ssh (count 4)
+2017/03/14 22:29:43 autossh[8169]: ssh child pid is 8189
+2017/03/14 22:29:43 autossh[8169]: check on child 8189
+2017/03/14 22:29:43 autossh[8169]: set alarm for 1 secs
+2017/03/14 22:29:43 autossh[8189]: execing /usr/bin/ssh
+2017/03/14 22:29:44 autossh[8169]: received signal to exit (2)

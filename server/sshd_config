@@ -11,7 +11,17 @@ Protocol 2
 ClientAliveCountMax=60
 ClientAliveInterval=60
 GATEWAYPORTS yes
-Allowusers root
+UsePAM yes
+#Allowusers root
 
+#SyslogFacility AUTHPRIV
 UseDNS no
+#X11Forwarding yes
+#PasswordAuthentication yes
+#GSSAPICleanupCredentials yes
 
+#ChallengeResponseAuthentication no
+#AcceptEnv LANG LC_CTYPE LC_NUMERIC LC_TIME LC_COLLATE LC_MONETARY LC_MESSAGES
+#AcceptEnv LC_PAPER LC_NAME LC_ADDRESS LC_TELEPHONE LC_MEASUREMENT
+#AcceptEnv LC_IDENTIFICATION LC_ALL LANGUAGE
+#AcceptEnv XMODIFIERS

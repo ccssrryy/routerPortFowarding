@@ -1,0 +1,80 @@
+2017/03/14 22:45:20 autossh[9537]: short poll time: adjusting net timeouts to 5000
+2017/03/14 22:45:20 autossh[9537]: checking for grace period, tries = 0
+2017/03/14 22:45:20 autossh[9537]: starting ssh (count 1)
+2017/03/14 22:45:20 autossh[9537]: ssh child pid is 9540
+2017/03/14 22:45:20 autossh[9537]: check on child 9540
+2017/03/14 22:45:20 autossh[9537]: set alarm for 2 secs
+2017/03/14 22:45:20 autossh[9540]: execing /usr/bin/ssh
+2017/03/14 22:45:22 autossh[9537]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:45:22 autossh[9537]: port down, restarting ssh
+2017/03/14 22:45:22 autossh[9537]: checking for grace period, tries = 1
+2017/03/14 22:45:22 autossh[9537]: starting ssh (count 2)
+2017/03/14 22:45:22 autossh[9537]: ssh child pid is 9544
+2017/03/14 22:45:22 autossh[9537]: check on child 9544
+2017/03/14 22:45:22 autossh[9537]: set alarm for 2 secs
+2017/03/14 22:45:22 autossh[9544]: execing /usr/bin/ssh
+2017/03/14 22:45:23 autossh[9537]: received signal to exit (2)
+2017/03/14 22:45:57 autossh[9589]: short poll time: adjusting net timeouts to 5000
+2017/03/14 22:45:57 autossh[9589]: checking for grace period, tries = 0
+2017/03/14 22:45:57 autossh[9589]: starting ssh (count 1)
+2017/03/14 22:45:57 autossh[9589]: ssh child pid is 9592
+2017/03/14 22:45:57 autossh[9589]: check on child 9592
+2017/03/14 22:45:57 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:45:57 autossh[9592]: execing /usr/bin/ssh
+2017/03/14 22:45:59 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:45:59 autossh[9589]: port down, restarting ssh
+2017/03/14 22:45:59 autossh[9589]: checking for grace period, tries = 1
+2017/03/14 22:45:59 autossh[9589]: starting ssh (count 2)
+2017/03/14 22:45:59 autossh[9589]: ssh child pid is 9596
+2017/03/14 22:45:59 autossh[9589]: check on child 9596
+2017/03/14 22:45:59 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:45:59 autossh[9596]: execing /usr/bin/ssh
+2017/03/14 22:46:01 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:46:01 autossh[9589]: port down, restarting ssh
+2017/03/14 22:46:01 autossh[9589]: checking for grace period, tries = 2
+2017/03/14 22:46:01 autossh[9589]: starting ssh (count 3)
+2017/03/14 22:46:01 autossh[9589]: ssh child pid is 9600
+2017/03/14 22:46:01 autossh[9589]: check on child 9600
+2017/03/14 22:46:01 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:46:01 autossh[9600]: execing /usr/bin/ssh
+2017/03/14 22:46:03 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:46:03 autossh[9589]: port down, restarting ssh
+2017/03/14 22:46:03 autossh[9589]: checking for grace period, tries = 3
+2017/03/14 22:46:03 autossh[9589]: starting ssh (count 4)
+2017/03/14 22:46:03 autossh[9589]: ssh child pid is 9604
+2017/03/14 22:46:03 autossh[9589]: check on child 9604
+2017/03/14 22:46:03 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:46:03 autossh[9604]: execing /usr/bin/ssh
+2017/03/14 22:46:05 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:46:05 autossh[9589]: port down, restarting ssh
+2017/03/14 22:46:05 autossh[9589]: checking for grace period, tries = 4
+2017/03/14 22:46:05 autossh[9589]: starting ssh (count 5)
+2017/03/14 22:46:05 autossh[9589]: ssh child pid is 9608
+2017/03/14 22:46:05 autossh[9589]: check on child 9608
+2017/03/14 22:46:05 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:46:05 autossh[9608]: execing /usr/bin/ssh
+2017/03/14 22:46:07 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:46:07 autossh[9589]: port down, restarting ssh
+2017/03/14 22:46:07 autossh[9589]: checking for grace period, tries = 5
+2017/03/14 22:46:07 autossh[9589]: starting ssh (count 6)
+2017/03/14 22:46:07 autossh[9589]: ssh child pid is 9612
+2017/03/14 22:46:07 autossh[9589]: check on child 9612
+2017/03/14 22:46:07 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:46:07 autossh[9612]: execing /usr/bin/ssh
+2017/03/14 22:46:09 autossh[9589]: 127.0.0.1:5555: Connection refused
+2017/03/14 22:46:09 autossh[9589]: port down, restarting ssh
+2017/03/14 22:46:09 autossh[9589]: checking for grace period, tries = 6
+2017/03/14 22:46:09 autossh[9589]: starting ssh (count 7)
+2017/03/14 22:46:09 autossh[9589]: ssh child pid is 9616
+2017/03/14 22:46:09 autossh[9589]: check on child 9616
+2017/03/14 22:46:09 autossh[9589]: set alarm for 2 secs
+2017/03/14 22:46:09 autossh[9616]: execing /usr/bin/ssh
+2017/03/14 22:46:09 autossh[9589]: received signal to exit (2)
+2017/03/14 22:46:29 autossh[9637]: short poll time: adjusting net timeouts to 5000
+2017/03/14 22:46:29 autossh[9637]: checking for grace period, tries = 0
+2017/03/14 22:46:29 autossh[9637]: starting ssh (count 1)
+2017/03/14 22:46:29 autossh[9637]: ssh child pid is 9640
+2017/03/14 22:46:29 autossh[9637]: check on child 9640
+2017/03/14 22:46:29 autossh[9637]: set alarm for 20 secs
+2017/03/14 22:46:29 autossh[9640]: execing /usr/bin/ssh
+2017/03/14 22:46:35 autossh[9637]: received signal to exit (2)
